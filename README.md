@@ -4,9 +4,10 @@
 
 | Nome | Matrícula |
 |---|---|
-| Kleison Vitoriano da Silva | _preencher_ |
-| Enzo | _preencher_ |
-| João Vitor | _preencher_ |
+| Kleison VItoriano da Silva | _preencher_ |
+| Enzo Eduardo Farias Martons | _preencher_ |
+| João Vitor da Silva Cunha | _preencher_ |
+| Renato Augusto Silva | _preencher_ |
 
 **Repositório:** https://github.com/kleisonvitoriano/Projeto-academia-lp2
 
